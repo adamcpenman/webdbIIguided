@@ -1,0 +1,8 @@
+CREATE TABLE <table name> (
+    <column name> <data type> <constraints>,
+    <column name> <data type> <constraints>,
+    <column name> <data type> <constraints>
+)
+
+DROP TABLE <table name>; 
+ALTER TABLE <table name> <arguments>;
